@@ -263,6 +263,9 @@
 
             #dados-post{
                 height:10%;
+                display: flex;
+                flex-direction: row-reverse;
+                gap: 86px;
             }
 
                 .p-escuro{
@@ -271,6 +274,12 @@
                     font-size: 14px;
                     text-align: right;
                     margin-right: 10px;
+                }
+
+                #p-onze{
+                    color: #A6A9AD;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 14px;
                 }
 
         #conteudo-like{
