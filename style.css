@@ -250,7 +250,7 @@
 
 #legenda{
     height: 70%;
-    margin: 5%;
+    padding-inline: 15px;
 }
 
 .p-legenda{
@@ -339,7 +339,7 @@
 }
 
 .img-perfil-comentario{
-    height: 50%;
+    height: 60%;
     width: 80%;
     border-radius: 50%;
 }
